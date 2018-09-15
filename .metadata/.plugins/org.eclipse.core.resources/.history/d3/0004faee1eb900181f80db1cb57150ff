@@ -1,0 +1,5 @@
+package com.sergio.cursomc.services.exceptions;
+
+public class ObjectNotFoundException {
+
+}
