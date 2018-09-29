@@ -1,0 +1,7 @@
+package com.sergio.cursomc.domain;
+
+public class PagamentoComCartao{
+	
+	private Integer numeroDeParcelas;
+
+}

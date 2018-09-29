@@ -1,0 +1,5 @@
+package com.sergio.cursomc.domain.enums;
+
+public enum EstadoPagamento {
+
+}
