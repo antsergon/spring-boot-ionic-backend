@@ -1,0 +1,14 @@
+package com.sergio.cursomc.domain;
+
+public class ItemPedido {
+	
+	
+	private ItempPedidoPK id = new ItemPedidoPK();
+	private Double desconto;
+	private Integer quantidade;
+	private Double preco;
+	
+	
+	
+
+}
