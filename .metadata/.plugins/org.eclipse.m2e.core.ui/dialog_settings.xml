@@ -6,10 +6,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/antonio/git/cursomc"/>
 			<item value="/home/antonio/git"/>
 			<item value="/home/antonio/Desenvolvimento/cursomc"/>
 			<item value="/home/antonio/workspace/cursomc"/>
-			<item value="/home/antonio/git/cursomc"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]-[version]"/>
