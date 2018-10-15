@@ -1,1 +1,1 @@
-{}
+[[{"location":"/usr/lib/jvm/java-8-openjdk-amd64","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"],[{"location":"/home/antonio/git/cursomc","type":"PROJECT","hints":{"PROJECT_NAME":"cursomc"}},"com.sergio.cursomc:cursomc:1.0.0"],[{"location":"/home/antonio/.m2/repository/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"/home/antonio/.m2/repository/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar","type":"JAR","hints":{}},"ABSENT"]]
