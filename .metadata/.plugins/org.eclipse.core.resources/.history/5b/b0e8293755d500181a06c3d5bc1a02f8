@@ -1,0 +1,17 @@
+package com.sergio.cursomc.dto;
+
+import java.io.Serializable;
+
+public class CategoriaDTO implements Serializable{ //serializable converte a classe em bytes para trafegar/salvar em arq
+	private static final long serialVersionUID = 1L;
+	
+	private Integer id;
+	private String nome;
+	
+	
+	public CategoriaDTO() {
+		
+	}
+	
+
+}
