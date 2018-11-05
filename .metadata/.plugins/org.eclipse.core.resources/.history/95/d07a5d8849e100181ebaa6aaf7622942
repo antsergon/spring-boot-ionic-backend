@@ -1,0 +1,13 @@
+package com.sergio.cursomc.resources.exception;
+
+public class ValidationError extends StandardError {
+	private static final long serialVersionUID = 1L;
+	
+	public ValidationError(Integer status, String msg, Long timestamp) {
+		super(status, msg, timestamp);
+		
+	}
+
+	
+
+}
