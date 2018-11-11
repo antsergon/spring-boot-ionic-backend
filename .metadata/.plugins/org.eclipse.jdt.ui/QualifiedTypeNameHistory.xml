@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cidade"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EstadoRepository"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.CidadeRepository"/>
 <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="javax.persistence.ElementCollection"/>
@@ -52,12 +50,14 @@
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
-<fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
-<fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.dto.CategoriaDTO"/>
 <fullyQualifiedTypeName name="javax.validation.Valid"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.resources.exception.FieldMessage"/>
 <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
+<fullyQualifiedTypeName name="java.lang.UnsupportedOperationException"/>
+<fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
 </qualifiedTypeNameHistroy>
