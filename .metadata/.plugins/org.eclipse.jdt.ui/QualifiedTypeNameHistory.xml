@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.CidadeRepository"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-<fullyQualifiedTypeName name="javax.persistence.ElementCollection"/>
-<fullyQualifiedTypeName name="javax.persistence.CollectionTable"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cliente"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Endereco"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.ClienteRepository"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EnderecoRepository"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.MapsId"/>
@@ -33,7 +24,6 @@
 <fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.ItemPedido"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.ItemPedidoRepository"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonManagedReference"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonBackReference"/>
@@ -60,4 +50,14 @@
 <fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
 <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
 <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+<fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EnderecoRepository"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cliente"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cidade"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.Endereco"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.repositories.CidadeRepository"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
 </qualifiedTypeNameHistroy>
