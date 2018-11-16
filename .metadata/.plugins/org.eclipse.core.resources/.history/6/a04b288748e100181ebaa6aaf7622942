@@ -1,5 +1,0 @@
-package com.sergio.cursomc.resources.exception;
-
-public class FieldMessage {
-
-}

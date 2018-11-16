@@ -4,7 +4,6 @@
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.MapsId"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
-<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 <fullyQualifiedTypeName name="javax.persistence.Inheritance"/>
 <fullyQualifiedTypeName name="javax.persistence.InheritanceType"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -51,7 +50,6 @@
 <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
 <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
 <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
-<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EnderecoRepository"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cliente"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Endereco"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.CidadeRepository"/>
 <fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 </qualifiedTypeNameHistroy>
