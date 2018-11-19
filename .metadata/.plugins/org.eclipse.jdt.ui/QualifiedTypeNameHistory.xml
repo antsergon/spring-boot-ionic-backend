@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="javax.persistence.Id"/>
-<fullyQualifiedTypeName name="javax.persistence.MapsId"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
 <fullyQualifiedTypeName name="javax.persistence.Inheritance"/>
 <fullyQualifiedTypeName name="javax.persistence.InheritanceType"/>
@@ -47,12 +44,9 @@
 <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
 <fullyQualifiedTypeName name="java.lang.UnsupportedOperationException"/>
 <fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
-<fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
-<fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
 <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EnderecoRepository"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cliente"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cidade"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Endereco"/>
@@ -60,4 +54,10 @@
 <fullyQualifiedTypeName name="java.util.Optional"/>
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotEmpty"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.utils.BR"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.ClienteInsert"/>
 </qualifiedTypeNameHistroy>

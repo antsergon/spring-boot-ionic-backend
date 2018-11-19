@@ -1,1 +1,1 @@
-[[{"location":"/home/antonio/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar","type":"JAR","hints":{}},"org.hibernate.javax:org.hibernate.javax.persistence.hibernate-jpa-2.1-api:1.0.2"]]
+[[{"location":"/usr/lib/jvm/java-8-openjdk-amd64","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"],[{"location":"/home/antonio/git/cursomc","type":"PROJECT","hints":{"PROJECT_NAME":"cursomc"}},"com.sergio.cursomc:cursomc:1.0.0"]]
