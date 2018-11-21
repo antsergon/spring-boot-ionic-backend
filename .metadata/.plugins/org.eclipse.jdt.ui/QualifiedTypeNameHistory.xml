@@ -48,11 +48,9 @@
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.EnderecoRepository"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cliente"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Cidade"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.Endereco"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.CidadeRepository"/>
 <fullyQualifiedTypeName name="java.util.Optional"/>
-<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 <fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotEmpty"/>
 <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.utils.BR"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.ClienteInsert"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

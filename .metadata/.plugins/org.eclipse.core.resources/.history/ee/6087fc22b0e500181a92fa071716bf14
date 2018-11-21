@@ -1,8 +1,0 @@
-package com.sergio.cursomc.dto;
-
-import java.io.Serializable;
-
-public class ClienteDTO implements Serializable{ //serializable converte a classe em bytes para trafegar/salvar em arq
-	private static final long serialVersionUID = 1L;
-
-}
