@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.ItemPedidoPK"/>
-<fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
-<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-<fullyQualifiedTypeName name="com.sergio.cursomc.domain.ItemPedido"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.repositories.ItemPedidoRepository"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonManagedReference"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonBackReference"/>
@@ -47,8 +37,6 @@
 <fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.TipoCliente"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.utils.BR"/>
 <fullyQualifiedTypeName name="com.sergio.cursomc.services.validation.ClienteInsert"/>
-<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.HandlerMapping"/>
@@ -60,4 +48,16 @@
 <fullyQualifiedTypeName name="com.sergio.cursomc.resources.utils.URL"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.net.URLDecoder"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonTypeInfo"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonTypeInfo.Id"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonTypeInfo.As"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.PagamentoComCartao"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.enums.EstadoPagamento"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.PagamentoComBoleto"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="com.sergio.cursomc.domain.ItemPedido"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 </qualifiedTypeNameHistroy>

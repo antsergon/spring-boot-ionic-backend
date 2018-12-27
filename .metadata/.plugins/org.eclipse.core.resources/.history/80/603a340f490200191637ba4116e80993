@@ -1,0 +1,8 @@
+package com.sergio.cursomc.services;
+
+
+
+@Service
+public class BoletoService {
+
+}
