@@ -1,0 +1,37 @@
+package com.sergio.cursomc.config;
+
+import java.text.SimpleDateFormat;
+import java.util.Arrays;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.sergio.cursomc.domain.Categoria;
+import com.sergio.cursomc.domain.Cidade;
+import com.sergio.cursomc.domain.Cliente;
+import com.sergio.cursomc.domain.Endereco;
+import com.sergio.cursomc.domain.Estado;
+import com.sergio.cursomc.domain.ItemPedido;
+import com.sergio.cursomc.domain.Pagamento;
+import com.sergio.cursomc.domain.PagamentoComBoleto;
+import com.sergio.cursomc.domain.PagamentoComCartao;
+import com.sergio.cursomc.domain.Pedido;
+import com.sergio.cursomc.domain.Produto;
+import com.sergio.cursomc.domain.enums.EstadoPagamento;
+import com.sergio.cursomc.domain.enums.TipoCliente;
+
+@Configuration
+@Profile("test")
+public class TestConfig {
+	
+	@Bean
+	public boolean instantiateDatabase() {
+		
+			
+	
+		
+		return true;
+	}
+
+}
